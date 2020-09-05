@@ -1,4 +1,5 @@
 Ini adalah testing initialize file untuk project DevOps Resolution 
 - Tambahan line baru 
 - kolaborasi dengan SME
+- Buat repositori baru
 
